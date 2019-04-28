@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657569677256",
+    "firebase_url": "https://schoolscheduledemo.firebaseio.com",
+    "project_id": "schoolscheduledemo",
+    "storage_bucket": "schoolscheduledemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657569677256:android:e7fa3c13d26cbe10",
+        "android_client_info": {
+          "package_name": "com.example.ahmad.schoolschedualdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657569677256-lavjoe99t8gnf8c6i66r4uqlre1b5c4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmad.schoolschedualdemo",
+            "certificate_hash": "d3f604b0f7002d005f615d79718d4fde696d8d9c"
+          }
+        },
+        {
+          "client_id": "657569677256-3g87jqspb721pt77d28btsh5mq7884ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa9lEkrs5bzkmR_yRtTr8i6ye1DkEbl70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657569677256-3g87jqspb721pt77d28btsh5mq7884ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
